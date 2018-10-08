@@ -1,0 +1,4 @@
+1. Kakšen je delež denormaliziranih števil? (~2.2%)
+2. Koliko normaliziranih števil je manjših od pi? (8768)
+3. Povpreèen razmik med zaporednimi števili, ki se od pi absolutno razlikujejo za manj kot 1? (0.008)
+4. fl(pi)? (3.144)
