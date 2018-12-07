@@ -26,7 +26,10 @@ end
 
 for i = 1:length(x)
   % za zaganjanje v Octave-u zakomentiraj te del!
-  px(i) = round(px(i), m, 'significant');
+  N = num2str(px(i), m);
+  N = str2num(N);
+  %px(i) = round(px(i), m, 'significant');
+  px(i) = N;
 end
 
 end
