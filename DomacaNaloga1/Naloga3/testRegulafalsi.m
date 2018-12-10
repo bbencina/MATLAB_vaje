@@ -3,3 +3,5 @@ a0 = 0;
 b0 = 3;
 
 regulafalsi(f, a0, b0)
+
+fzero(f, [a0, b0])
