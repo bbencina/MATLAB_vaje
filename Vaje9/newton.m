@@ -1,3 +1,4 @@
+% komentar: to ne dela, glej domaco nalogo 2, nalogo 1
 function [x, X, k] = newton(F, JF, x0, tol, N)
     % po newtonovi metodi izraèuna x
     % X vsi delni približki, k število korakov
